@@ -167,6 +167,8 @@ function scoreboard(/* CODE HERE */) {
   /* CODE HERE */
 }
 
+console.log(scoreboard(getInningScore,inning, 9));
+
 
 
 
